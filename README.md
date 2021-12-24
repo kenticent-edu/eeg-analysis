@@ -8,6 +8,10 @@ To begin with, I didn’t have the complete information about the recording. Thu
 
 ![Biosemi-16-Channel-Head-Cap-Layout](https://user-images.githubusercontent.com/56925230/147356509-03b59ffe-5993-4456-bc8f-619c013321b9.jpg)
 
+![Screenshot 2021-12-24 154717](https://user-images.githubusercontent.com/56925230/147356965-01c08d0a-16e7-4191-9eb8-20249569a59a.png)
+
+As you see on the plot, fixing the channels allowed MNE to beatifully create a color legend.
+
 ### The waves to analyse
 
 ![Screenshot 2021-12-24 154506](https://user-images.githubusercontent.com/56925230/147356854-37ed310e-7d0a-48d8-8ed8-709029b42cd5.png)
@@ -22,13 +26,18 @@ We see on the last row of the plot, that there is almost no ECG noise, except fo
 
 ## Conclusions
 
+![download](https://user-images.githubusercontent.com/56925230/147357088-88b47db7-0fd2-4dba-9923-1ea088d3b212.png)
+
 During the EEG recording, an unstable alpha rhythm which had a frequency of 10.5-11 Hz and was amplified to 110 µV was dominating. Activation reaction was fuzzy: from the beginning of the EEG, the continuing functional loads provoked synchronized sharp discharges. After functional loads we can see discharges in form of sharp waves - both in the D hemisphere and later in the S hemisphere. They're also common in the fronto-precentral, temporal, and parieto occipital regions.
 
 ## Materials
 
 [1] https://www.medscape.com/answers/1140247-177025/what-are-ecg-artifacts-on-eeg
+
 [2] https://www.youtube.com/watch?v=B9ti7boa9jc
+
 [3] https://arxiv.org/ftp/arxiv/papers/2010/2010.11667.pdf
+
 [4] https://reader.elsevier.com/reader/sd/pii/S2352711021000753?token=4F6251103DBB953194A50E6909779313DC8A6296D68B775AAF6BC034D40E48BF0B1C9B45669583BD55A2C29A0C9E518D&originRegion=eu-west-1&originCreation=20211224130918
 
 The EEG results used in this project were mine. A separate thanks to the cotributors of the libraries used for the analysis.
