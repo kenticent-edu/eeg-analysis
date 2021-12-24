@@ -12,6 +12,8 @@ To begin with, I didn’t have the complete information about the recording. Thu
 
 As you see on the plot, fixing the channels allowed MNE to beatifully create a color legend.
 
+In the conclusion, this is a 16-channeled signal which was sampled at a frequency of 400 Hz.
+
 ### The waves to analyse
 
 ![Screenshot 2021-12-24 154506](https://user-images.githubusercontent.com/56925230/147356854-37ed310e-7d0a-48d8-8ed8-709029b42cd5.png)
