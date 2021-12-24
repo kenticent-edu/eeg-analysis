@@ -6,7 +6,7 @@ The signals that come from our brain are nosy, nonstationary, very complex, and 
 
 To begin with, I didn’t have the complete information about the recording. Thus, I had to fill the gaps in the data as much as I could. For example, the device which was used during the recording was unknown - MNE, a Python library used in this work for analysis, complained the data was missing the information about the channels. Luckily, from the names of the last ones, I could deduce that a biosemi16 device was used and assigned each channel its location.
 
-![Biosemi-16-Channel-Head-Cap-Layout](https://user-images.githubusercontent.com/56925230/147356509-03b59ffe-5993-4456-bc8f-619c013321b9.jpg)
+<img src="https://user-images.githubusercontent.com/56925230/147356509-03b59ffe-5993-4456-bc8f-619c013321b9.jpg" alt="Biosemi-16-Channel-Head-Cap-Layout" width="500"/>
 
 ![Screenshot 2021-12-24 154717](https://user-images.githubusercontent.com/56925230/147356965-01c08d0a-16e7-4191-9eb8-20249569a59a.png)
 
